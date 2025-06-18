@@ -1,1 +1,2 @@
 # Netbanking-System
+Banking System is developed using C++ Programming Language and different variables, strings have been used for the development of it. This project uses classes and file handling features of C++. This System is based on a concept of recording customer’s account details. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, check balance, view all account holders detail, close an account, and so on. Also, there’s no login system for this project.
